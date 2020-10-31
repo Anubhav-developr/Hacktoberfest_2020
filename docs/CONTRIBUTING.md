@@ -56,4 +56,6 @@ $ git merge upstream/master
 5. Push changes to your forked GitHub repository
 ```
 $ git push -f origin master
+
+•Note : you can download turmux in your android phone if you don't have laptop, turmux is available in playstore. 
 ```
